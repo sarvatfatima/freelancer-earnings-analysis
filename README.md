@@ -1,6 +1,6 @@
 # Freelance Marketplace Data Analysis
 
-This project presents a comprehensive analysis of freelancer performance across popular freelance platforms including Fiverr, Upwork, and PeoplePerHour. The aim is to uncover meaningful patterns and insights into how factors like job completion, client satisfaction, marketing efforts, and hourly rates influence a freelancer’s overall success.
+This project presents a comprehensive analysis of freelancer performance across popular freelance platforms including Fiverr, Upwork, and PeoplePerHour. The aim of this [dataset](https://www.kaggle.com/datasets/shohinurpervezshohan/freelancer-earnings-and-job-trends) is to uncover meaningful patterns and insights into how factors like job completion, client satisfaction, marketing efforts, and hourly rates influence a freelancer’s overall success.
 
 Using Python's data analysis and visualization libraries, we explore trends in freelancer behavior, identify what contributes most to earnings, and create custom performance metrics to quantify efficiency, return on investment, and client relationships.
 
